@@ -1,7 +1,6 @@
 ---
+layout: "default"
 ---
-# Straightway
-
 Straightway is a network storage and communication framework. It is planned to have various
 applications, ranging from messaging and social media to equal and secret ballot. These
 applications shall use the network storage layer
